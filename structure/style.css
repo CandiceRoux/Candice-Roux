@@ -1,0 +1,26 @@
+body {
+    text-align: center ;
+    margin: 5;
+
+}
+
+.navbar {
+    background-color: rgb(43, 214, 226);
+    overflow: hidden;
+
+}
+
+.navbar a { 
+    float: left;
+    color: cornsilk;
+    padding: 14px 20px;
+}
+
+.navbar a: :hover{ 
+    background-color: darkblue;
+}
+
+.maintext { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
